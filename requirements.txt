@@ -61,3 +61,4 @@ eth-abi==1.2.7
 eth-abi==1.9.1
 eth-abi==0.2.9
 aiohttp==0.2.0
+eth-abi==0.9.8
