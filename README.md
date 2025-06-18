@@ -69,3 +69,4 @@
 - Update note 7128
 - Update note 2424
 - Update note 3240
+- Update note 1380
